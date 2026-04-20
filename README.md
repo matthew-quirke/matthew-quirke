@@ -1,16 +1,13 @@
-## Hi there 👋
+## Matt Quirke
 
-<!--
-**matthew-quirke/matthew-quirke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrical / Electronics / RF / Embedded systems 
 
-Here are some ideas to get you started:
+I troubleshoot real systems — not just code. Most of my work involves diagnosing faults, analysing behaviour (often with an oscilloscope or SDR), and fixing things at the root cause.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Marine DC systems (LiFePO₄, inductive loads, transients)
+- RF and radio diagnostics (VHF, AIS, SDR)
+- Board-level electronics repair
+- Embedded Linux / Raspberry Pi systems
+- Instrumentation, SCPI, and data capture
+
+This repo is a collection of real investigations, repairs, and system-level work.
