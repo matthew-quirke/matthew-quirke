@@ -33,7 +33,7 @@ I work on real-world systems — diagnosing faults, analysing behaviour, and bui
 ## 🔬 Electronics Engineering
 ![Electronics](https://img.shields.io/badge/Focus-Board%20Level%20Repair-green)
 
-- MOSFET Switching & Gate Driver Behaviour Analysis  
+- [MOSFET Switching & Gate Driver Behaviour Analysis](https://github.com/matthew-quirke/wattandsea-hydrogenerator-synchronous-rectifier-transients/README.md)  
 - Power electronics troubleshooting (DC systems, switching noise, transient events)  
 - Board-level fault diagnosis and repair  
 - Reverse engineering and system-level fault isolation  
@@ -45,7 +45,7 @@ I work on real-world systems — diagnosing faults, analysing behaviour, and bui
 
 - LiFePO₄ Marine Power Systems – Transient Behaviour & System Stability  
 - Solar MPPT charging systems and battery integration  
-- Hydrogenerator and diesel generator integration and fault finding  
+- [Hydrogenerator and diesel generator integration and fault finding](https://github.com/matthew-quirke/wattandsea-hydrogenerator-synchronous-rectifier-transients/README.md)
 - Marine DC system design, wiring, and troubleshooting  
 
 ---
