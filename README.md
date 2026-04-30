@@ -43,7 +43,7 @@ I work on real-world systems — diagnosing faults, analysing behaviour, and bui
 ## ⚡ Electrical Systems
 ![Electrical](https://img.shields.io/badge/Focus-Marine%20Power-orange)
 
-- LiFePO₄ Marine Power Systems – Transient Behaviour & System Stability  
+- [LiFePO₄ Marine Power Systems – Transient Behaviour & System Stability](https://github.com/matthew-quirke/lifepo4-marine-dc-transient-analysis/blob/main/README.md) 
 - Solar MPPT charging systems and battery integration  
 - [Hydrogenerator and diesel generator integration and fault finding](https://github.com/matthew-quirke/wattandsea-hydrogenerator-synchronous-rectifier-transients/blob/main/README.md)
 - Marine DC system design, wiring, and troubleshooting  
