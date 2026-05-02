@@ -23,7 +23,7 @@ I work on real-world systems — diagnosing faults, analysing behaviour, and bui
 ## 📡 Radio & RF Engineering
 ![RF](https://img.shields.io/badge/Focus-RF%20%2F%20SDR-blue)
 
-- VHF Receiver Troubleshooting – Intermediate Frequency (IF) Stage Analysis  
+- HF & VHF Receiver Troubleshooting – Stage Analysis  
 - [AIS (Automatic Identification System) Fault Diagnosis & Signal Analysis](https://github.com/matthew-quirke/ais-reverse-engineering-and-repair/blob/main/README.md)
 - SDR-based RF investigation and interference analysis  
 - HF End-Fed Half-Wave Antenna Design & Resonance Tuning  
