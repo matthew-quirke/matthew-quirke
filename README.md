@@ -56,7 +56,8 @@ I work on real-world systems — diagnosing faults, analysing behaviour, and bui
 - Raspberry Pi-based monitoring and control systems  
 - SCPI instrument control and data capture (oscilloscopes, test equipment)  
 - Python tooling for automation, data acquisition, and simulation  
-- Embedded development and system integration  
+- Embedded development and system integration
+- Telecom network security and support
 
 ---
 
